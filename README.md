@@ -8,30 +8,10 @@
 
 本仓库致力于收集和整理与「千星奇域」开发相关的工具、脚本、组件与数据，助力创作者降低开发门槛，释放无限创意。
 
-## 🗂️ 资源目录结构（暂时错误）
+## 🗂️ 资源目录结构（之后更新）
 
 ```
-Genshin-Starfire-Domain-Tools/
-├── 📁 Documentation/         # 文档与教程
-│   ├── 官方编辑器综合指南解读.md
-│   ├── 核心功能模块解析.md
-│   └── 常见问题FAQ.md
-├── 📁 Example-Projects/      # 示例项目
-│   ├── Basic-Tower-Defense/  # 基础塔防示例
-│   ├── Simple-Roguelike/     # 简易Roguelike示例
-│   └── Puzzle-Template/      # 解谜关卡模板
-├── 📁 Scripts-And-Components/ # 脚本与组件
-│   ├── 通用事件触发器.json
-│   ├── 自定义胜利条件逻辑.json
-│   └── 特殊镜头序列模板.json
-├── 📁 Asset-Guides/          # 资产使用指南
-│   ├── 可用怪物单位列表.md
-│   ├── 场景物件调用指南.md
-│   └── 特效与动画资源目录.md
-├── 📁 Community-Resources/   # 社区资源
-│   └── 优秀关卡案例分享.md
-└── 📁 Developer-Tools/       # 开发者工具（如有）
-    └（预留，用于存放任何可能开发的第三方辅助工具）
+
 ```
 
 
