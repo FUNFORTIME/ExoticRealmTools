@@ -71,7 +71,7 @@
 
 ## 📮 链接与反馈
 
-*   **提交问题与建议**：[GitHub Issues](./issues)
+*   **提交问题与建议**：[GitHub Issues](https://github.com/FUNFORTIME/ExoticRealmTools/issues),[Gitee Issues](https://gitee.com/funfortime/genugctools/issues)
 *   **官方信息渠道**：请关注《原神》游戏内公告及官方网站获取「千星奇域」的最新动态。
 
 ---
