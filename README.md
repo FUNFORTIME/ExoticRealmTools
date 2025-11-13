@@ -11,7 +11,7 @@
 ## 🗂️ 资源目录
 
 
-- **`Online/`**：存放在线工具链接（`.md`文件）。[于此跳转](https://github.com/FUNFORTIME/ExoticRealmTools/tree/main/Online)
+- **`Online/`**：存放在线工具链接（`.md`文件）。[于此跳转](./main/Online)
 
 - **`Documentation/`**：存放创作者经验文档（`.md`文件），如新手指南、高级技巧、问题排查等。
 
