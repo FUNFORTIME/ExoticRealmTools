@@ -8,6 +8,8 @@
 
 本仓库致力于收集和整理与「千星奇域」开发相关的工具、脚本、组件与数据，助力创作者降低开发门槛，释放无限创意。
 
+源项目位于Github，Gitee的项目从其拉取。
+
 ## 🗂️ 资源目录
 
 
@@ -71,8 +73,8 @@
 
 ## 📮 链接与反馈
 
-*   **提交问题与建议**：[GitHub Issues](https://github.com/FUNFORTIME/ExoticRealmTools/issues),[Gitee Issues](https://gitee.com/funfortime/genugctools/issues)
-*   **官方信息渠道**：请关注《原神》游戏内公告及官方网站获取「千星奇域」的最新动态。
+*   **提交问题与建议**：[GitHub Issues](https://github.com/FUNFORTIME/ExoticRealmTools/issues)，[GitHub PR](https://github.com/FUNFORTIME/ExoticRealmTools/pulls)
+*   **聊天区**：[Gitee Issues](https://gitee.com/funfortime/genugctools/issues)，不接受Gitee的PR。
 
 ---
 
