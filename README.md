@@ -15,7 +15,7 @@
 
 - **`Online/`**：存放在线工具链接（`.md`文件）。[于此跳转](./Online)
 
-- **`Documentation/`**：存放创作者经验文档（`.md`文件），[于此跳转](./Documentation)，如新手指南、高级技巧、问题排查等。
+- **`Documentation/`**：存放创作者经验文档（`.md`文件），[于此跳转](./Documentation)，以及教程视频，[于此跳转](./Documentation/%E6%95%99%E7%A8%8B%E8%A7%86%E9%A2%91.md)。
 
 - **`Example-Projects/`**：存放完整的示例项目。[于此跳转](./Example-Projects/%E7%A4%BA%E4%BE%8B%E5%AD%98%E6%A1%A3%E7%B4%A2%E5%BC%95.md)，每个项目是一个文件夹，内含项目`存档文件`和说明文档`README.md`。
 
