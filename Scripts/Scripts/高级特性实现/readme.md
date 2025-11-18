@@ -7,7 +7,7 @@
 | 后台任务-带负载感知      | [立即访问](./%E5%90%8E%E5%8F%B0%E4%BB%BB%E5%8A%A1-%E5%B8%A6%E8%B4%9F%E8%BD%BD%E6%84%9F%E7%9F%A5)                                                      | 后台任务-带负载感知                     | [立即访问](./%E5%90%8E%E5%8F%B0%E4%BB%BB%E5%8A%A1-%E5%B8%A6%E8%B4%9F%E8%BD%BD%E6%84%9F%E7%9F%A5/readme.md) |
 | 多态实现框架          | [立即访问](./%E5%A4%9A%E6%80%81%E5%AE%9E%E7%8E%B0%E6%A1%86%E6%9E%B6)                                                                                  | 多态实现框架                         | [教程视频（Bilibili）](https://www.bilibili.com/video/BV1h2xNzmEAb)                                          |
 | 基于变量监听的简洁函数接口设计 | [立即访问](./%E5%9F%BA%E4%BA%8E%E5%8F%98%E9%87%8F%E7%9B%91%E5%90%AC%E7%9A%84%E7%AE%80%E6%B4%81%E5%87%BD%E6%95%B0%E6%8E%A5%E5%8F%A3%E8%AE%BE%E8%AE%A1) | 基于变量监听的简洁函数接口设计                | [教程视频（Bilibili）](https://www.bilibili.com/video/BV164CEBfE1L)                                          |
-| Update          |                                                                                                                                                   | 使用节点图实现Unity的Update功能，依据教程内容复现 | [教程视频](https://www.bilibili.com/video/BV188spztEZL)                                                    |
+| Update          | [立即访问](./Update)                                                                                                                                  | 使用节点图实现Unity的Update功能，依据教程内容复现 | [教程视频](https://www.bilibili.com/video/BV188spztEZL)                                                    |
 
 **使用提示：**
 
