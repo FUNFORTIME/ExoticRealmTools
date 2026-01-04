@@ -28,23 +28,23 @@
 - **`基础功能/`**：实现基础的节点图功能，通常不构成完整模块。[于此跳转](./%E5%9F%BA%E7%A1%80%E5%8A%9F%E8%83%BD)
 
 - **`基础模块/`**：实现基础功能，通常构成完整模块。[于此跳转](./%E5%9F%BA%E7%A1%80%E6%A8%A1%E5%9D%97)
-  
-- **`在线工具/`**：存放在线工具链接。[于此跳转](./%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7)
 
+- **`在线工具/`**：存放在线工具链接。[于此跳转](./%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7)
 
 ## 🤝 为社区贡献力量
 
 我们欢迎所有创作者分享你的资源、教程和心得！你可以通过以下方式参与：
 
 ### 📝 分享创作经验
+
 将你的经验总结成文档，提交到 `Documentation/` 目录，帮助其他创作者少走弯路。
+
 - 最佳实践指南
 - 疑难问题解决方案
 - 创作技巧与心得
 - 直接提交markdown文档即可
 
 ---
-
 
 ## 🛡️ 声明
 
@@ -58,8 +58,8 @@
 
 ## 📮 链接与反馈
 
-*   **提交问题与建议**：[GitHub Issues](https://github.com/FUNFORTIME/ExoticRealmTools/issues)，[GitHub PR](https://github.com/FUNFORTIME/ExoticRealmTools/pulls)
-*   **聊天区**：[Gitee Issues](https://gitee.com/funfortime/genugctools/issues)，不接受Gitee的PR。
+* **提交问题与建议**：[GitHub Issues](https://github.com/FUNFORTIME/ExoticRealmTools/issues)，[GitHub PR](https://github.com/FUNFORTIME/ExoticRealmTools/pulls)
+* **聊天区**：[Gitee Issues](https://gitee.com/funfortime/genugctools/issues)，不接受Gitee的PR。
 
 ---
 
