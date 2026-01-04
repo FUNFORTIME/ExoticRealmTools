@@ -6,7 +6,7 @@
 | ---- | ----------------------------------------------------------------------------------------------- | --- | ---- |
 | 双开门  | [立即访问](https://act.mihoyo.com/ys/prod/ugc/component-store/index.html#/item/1996051978576248832) |     |      |
 | 战利品箱 | [立即访问](https://act.mihoyo.com/ys/prod/ugc/component-store/index.html#/item/1996059861326008320) |     |      |
-
+| 爆头检测器          | [立即访问](https://act.mihoyo.com/ys/prod/ugc/component-store/index.html#/item/1995333552656363520) |                         |      |
 ---
 
 **使用提示：**

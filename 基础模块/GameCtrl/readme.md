@@ -8,7 +8,6 @@
 | 全员投票系统         | [立即访问](https://act.mihoyo.com/ys/prod/ugc/component-store/index.html#/item/1996072261001461760) |                         |      |
 | 一键脱离卡死         | [立即访问](https://act.mihoyo.com/ys/prod/ugc/component-store/index.html#/item/1996089276634271744) | 倾向任务显示                  |      |
 | 简单飞控与实用线性代数工具包 | [立即访问](https://act.mihoyo.com/ys/prod/ugc/component-store/index.html#/item/1996224611062157312) | 旨在为飞行器元件提供基础但平滑的飞行控制能力。 |      |
-| 爆头检测器          | [立即访问](https://act.mihoyo.com/ys/prod/ugc/component-store/index.html#/item/1995333552656363520) |                         |      |
 
 ---
 
