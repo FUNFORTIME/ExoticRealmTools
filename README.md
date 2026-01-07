@@ -17,8 +17,6 @@
 
 - **`Documentation/`**：存放创作者经验文档（`.md`文件），[于此跳转](./Documentation)，以及教程视频，[于此跳转](./Documentation/%E6%95%99%E7%A8%8B%E8%A7%86%E9%A2%91.md)。
 
-- **`Example-Projects/`**：存放完整的示例项目。[于此跳转](./Example-Projects/%E7%A4%BA%E4%BE%8B%E5%AD%98%E6%A1%A3%E7%B4%A2%E5%BC%95.md)，每个项目是一个文件夹，内含项目`存档文件`和说明文档`README.md`。
-
 - **`Scripts/`**：存放效率工具源文件。[于此跳转](./Scripts/%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7%E9%9B%86%E6%88%90.md)，其下按功能分设子文件夹（如`game-mechanics/`），每个子文件夹内含`节点图文件`和说明文档`README.md`。
 
 - **`Prefab/`**：存放预制元件。[于此跳转](./Prefab/%E6%A8%A1%E6%9D%BF%E5%85%83%E4%BB%B6.md)，其下按类型分设子文件夹（如`interactive-elements/`），每个子文件夹内含`元件资源`和说明文档`README.md`。
@@ -30,6 +28,8 @@
 - **`基础模块/`**：实现基础功能，通常构成完整模块。[于此跳转](./%E5%9F%BA%E7%A1%80%E6%A8%A1%E5%9D%97)
 
 - **`在线工具/`**：存放在线工具链接。[于此跳转](./%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7)
+
+- **`示例项目/`**：存放完整的示例项目。[于此跳转](./Example-Projects/%E7%A4%BA%E4%BE%8B%E5%AD%98%E6%A1%A3%E7%B4%A2%E5%BC%95.md)
 
 ## 🤝 为社区贡献力量
 

@@ -4,6 +4,7 @@
 
 | 功能        | 直接链接                                                                                            | 说明                       | 详细信息                                                |
 | --------- | ----------------------------------------------------------------------------------------------- | ------------------------ | --------------------------------------------------- |
+| 鼠标选择实体    | [立即访问](https://act.mihoyo.com/ys/prod/ugc/component-store/index.html#/item/2005299864350498816) |                          |                                                     |
 | 回合制流程控制系统 | [立即访问](https://act.mihoyo.com/ys/prod/ugc/component-store/index.html#/item/1992824773092061184) |                          |                                                     |
 | 全员投票系统    | [立即访问](https://act.mihoyo.com/ys/prod/ugc/component-store/index.html#/item/1997349295723950080) |                          |                                                     |
 | 脱离卡死      | [立即访问](https://act.mihoyo.com/ys/prod/ugc/component-store/index.html#/item/1996089276634271744) |                          |                                                     |
